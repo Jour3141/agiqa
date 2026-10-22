@@ -1,2 +1,2 @@
 # agiqa
-The code will be released after the paper published.
+The code will be released after the paper is published.
